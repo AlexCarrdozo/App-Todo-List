@@ -5,6 +5,10 @@
 
 *Importante:* Este protótipo não possui funcionalidades de back-end. As interações são limitadas à navegação entre as telas estáticas através dos links e botões.
 
+**Wireframe Original:**
+
+![Wireframe do Aplicativo To-Do List](img/wireframe.png)
+
 *Como Utilizar o Protótipo*
     Para explorar o protótipo, siga os passos abaixo. A navegação simula o uso de um aplicativo mobile.
 

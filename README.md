@@ -7,7 +7,7 @@
 
 **Wireframe Original:**
 
-![Wireframe do Aplicativo To-Do List](img/wireframe.png)
+![Wireframe do Aplicativo To-Do List](wireframe.png)
 
 *Como Utilizar o Protótipo*
     Para explorar o protótipo, siga os passos abaixo. A navegação simula o uso de um aplicativo mobile.
